@@ -12,3 +12,5 @@
 
 <img width="916" height="670" alt="image" src=“../image/黄教主.png” />
 
+<img width="591" height="394" alt="d393f1a461f64c1176d3c8aa5d9188cd" src="https://github.com/user-attachments/assets/b61466cd-545b-4399-8fdc-d02f29599eed" />
+
